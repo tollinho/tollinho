@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tollinho
+- 👀 I’m interested in fun stuff
+- 🌱 I’m currently learning python
